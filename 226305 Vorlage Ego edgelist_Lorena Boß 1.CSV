@@ -1,0 +1,15 @@
+from,to,weight,duration,relationship
+Lorena,Denise,3,3,7
+Lorena,Ece,2,3,7
+Lorena,Cameron,4,1,6
+Lorena,Maike,3,2,7
+Denise,Maike,3,3,7
+Maike,Denise,3,3,7
+Cameron,Denise,1,1,7
+Denise ,Cameron,1,1,7
+Ece,Maike,3,2,7
+Maike,Ece ,3,2,7
+Denise,Lorena,3,3,7
+Ece,Lorena,2,3,7
+Cameron,Lorena,4,1,6
+Maike,Lorena ,3,2,7
